@@ -142,8 +142,7 @@ int main()
 		std::cout << con[w] << " "; 
 	}
 	std::cout << "\n";
-	
-	//1 4 10 20 25 24 16 
+
 	
 	
 	return 0;
